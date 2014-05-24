@@ -1,0 +1,33 @@
+{
+  "name": "task-autoprefixer",
+  "version": "0.1.0",
+  "main": "lib/autoprefixer.js",
+  "description": "Add vendor prefixes to CSS rules with autoprefixer.",
+  "homepage": "https://github.com/taskjs/task-autoprefixer",
+  "bugs": "https://github.com/taskjs/task-autoprefixer/issues",
+  "author": {
+    "name": "Yuanyan Cao",
+    "email": "yuanyan.cao@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taskjs/task-autoprefixer"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "task",
+    "autoprifixer"
+  ],
+  "dependencies": {
+    "execution": "^0.1.2",
+    "autoprefixer": "^1.1.20140523",
+    "record": "^0.2.0"
+  },
+  "scripts": {
+    "test": "node test/autoprefixer_test"
+  }
+}
