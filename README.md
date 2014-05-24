@@ -33,7 +33,7 @@ Default: `'false'`
 Pass `true` to enable ‘cascade’ indentation. Read more [here](https://github.com/ai/autoprefixer#visual-cascade).
 
 ## Release History
-_(Nothing yet)_
+* 2014-05-24 0.1.0 Initial release.
 
 ## License
 Copyright (c) 2014 Yuanyan Cao. Licensed under the MIT license.
